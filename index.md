@@ -5,3 +5,4 @@ I'm a freshman at UC Berkeley, intending to declare Computer Science. Aside from
 
 ## Links
 [CS61A Notes](cs61a.md)
+[Additional Topics in CS61A Notes](cs9852.md)
