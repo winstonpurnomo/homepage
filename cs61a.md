@@ -22,3 +22,7 @@ Here are my lecture notes for CS61A, The Structure and Interpretation of Compute
 [Lecture 9 - Recursion](61A Lec 9.pdf)
 
 [Lecture 10 - Tree Recursion](61A Lec 10.pdf)
+
+[Lecture 11 - Lists and Containers](61A Lec 11.pdf)
+
+[Lecture 12 - Data Abstraction and Dictionaries](61A Lec 12.pdf)
