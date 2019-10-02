@@ -26,3 +26,7 @@ Here are my lecture notes for CS61A, The Structure and Interpretation of Compute
 [Lecture 11 - Lists and Containers](61A Lec 11.pdf)
 
 [Lecture 12 - Data Abstraction and Dictionaries](61A Lec 12.pdf)
+
+[Lecture 13 - Trees](61A Lec 13.pdf)
+
+[Lecture 14 - Mutable Values](61A Lec 14.pdf)
