@@ -30,3 +30,9 @@ Here are my lecture notes for CS61A, The Structure and Interpretation of Compute
 [Lecture 13 - Trees](61A Lec 13.pdf)
 
 [Lecture 14 - Mutable Values](61A Lec 14.pdf)
+
+[Lecture 15 - Mutable Functions](61A Lec 15.pdf)
+
+[Lecture 16 - Iterators and Generators](61A Lec 16.pdf)
+
+[Lecture 17 - Object-Oriented Programming](61a Lec 17.pdf)
