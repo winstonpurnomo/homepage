@@ -35,4 +35,4 @@ Here are my lecture notes for CS61A, The Structure and Interpretation of Compute
 
 [Lecture 16 - Iterators and Generators](61A Lec 16.pdf)
 
-[Lecture 17 - Object-Oriented Programming](61a Lec 17.pdf)
+[Lecture 17 - Object-Oriented Programming](61A Lec 17.pdf)
