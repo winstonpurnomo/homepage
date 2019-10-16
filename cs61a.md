@@ -38,3 +38,9 @@ Here are my lecture notes for CS61A, The Structure and Interpretation of Compute
 [Lecture 17 - Object-Oriented Programming](61A Lec 17.pdf)
 
 [Lecture 18 - Inheritance](61A Lec 18.pdf)
+
+[Lecture 19 - Repr and Str](61A Lec 19.pdf)
+
+[Lecture 20 - Compositional Data](61A Lec 20.pdf)
+
+[Lecture 21 - Efficiency, Runtime and Space](61A Lec 21.pdf)
