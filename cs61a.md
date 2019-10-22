@@ -44,3 +44,7 @@ Here are my lecture notes for CS61A, The Structure and Interpretation of Compute
 [Lecture 20 - Compositional Data](61A Lec 20.pdf)
 
 [Lecture 21 - Efficiency, Runtime and Space](61A Lec 21.pdf)
+
+[Lecture 22 - Decomposition](61A Lec 22.pdf)
+
+[Lecture 23 - Data Examples](61A Lec 23.pdf)
