@@ -48,3 +48,9 @@ Here are my lecture notes for CS61A, The Structure and Interpretation of Compute
 [Lecture 22 - Decomposition](61A Lec 22.pdf)
 
 [Lecture 23 - Data Examples](61A Lec 23.pdf)
+
+# The Home Stretch - Content Leading Up To Final
+
+Wondering where's Lecture 24? You can see what it's about in the notes for Lecture 25.
+
+[Lecture 25 - Scheme](61A Lec 25.pdf)
