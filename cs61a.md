@@ -54,3 +54,5 @@ Here are my lecture notes for CS61A, The Structure and Interpretation of Compute
 Wondering where's Lecture 24? You can see what it's about in the notes for Lecture 25.
 
 [Lecture 25 - Scheme](61A Lec 25.pdf)
+
+[Lecture 26 - Exceptions](61A Lec 26.pdf)
