@@ -58,3 +58,5 @@ Wondering where's Lecture 24? You can see what it's about in the notes for Lectu
 [Lecture 26 - Exceptions](61A Lec 26.pdf)
 
 [Lecture 27 - Interpreters](61A Lec 27.pdf)
+
+[Lecture 28 - Interpreting Scheme] (61A Lec 28.pdf)
