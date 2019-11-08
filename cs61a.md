@@ -60,3 +60,7 @@ Wondering where's Lecture 24? You can see what it's about in the notes for Lectu
 [Lecture 27 - Interpreters](61A Lec 27.pdf)
 
 [Lecture 28 - Interpreting Scheme](61A Lec 28.pdf)
+
+[Lecture 29 - Dynamic Scope and Tail Calls](61A Lec 29.pdf)
+
+[Lecture 30 - Macros and Quasi-quoting](61A Lec 30.pdf)
