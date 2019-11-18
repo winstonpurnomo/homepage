@@ -68,3 +68,5 @@ Wondering where's Lecture 24? You can see what it's about in the notes for Lectu
 [Lecture 31 - Streams](61A Lec 31.pdf)
 
 [Lecture 32 - SQL and the Select Statement](61A Lec 32.pdf)
+
+[Lecture 33 - Joins and Manipulation](61A Lec 33.pdf)
