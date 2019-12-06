@@ -77,7 +77,7 @@ Wondering where's Lecture 24? You can see what it's about in the notes for Lectu
 
 [Lecture 38 - Final Review](61A Lec 38.pdf)
 
-## Conclusion
+# Conclusion
 The content here does not pertain to the final, but is neat!
 
 [Lecture 36 - Unix](61A Lec 36.pdf)
