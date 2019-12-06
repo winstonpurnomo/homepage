@@ -74,3 +74,14 @@ Wondering where's Lecture 24? You can see what it's about in the notes for Lectu
 [Lecture 34 - Aggregation](61A Lec 34.pdf)
 
 [Lecture 35 - MiSQLalleneous and Blackjack](61A Lec 35.pdf)
+
+[Lecture 38 - Final Review](61A Lec 38.pdf)
+
+## Conclusion
+The content here does not pertain to the final, but is neat!
+
+[Lecture 36 - Unix](61A Lec 36.pdf)
+
+[Lecture 37 - Natural Language](61A Lec 37.pdf)
+
+[Lecture 39 - Conclusion](61A Lec 39.pdf)
