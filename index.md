@@ -7,3 +7,5 @@ I'm a freshman at UC Berkeley, intending to declare Computer Science. Aside from
 [CS61A Notes](cs61a.md)
 
 [Additional Topics in CS61A Notes](cs9852.md)
+
+[CS61B Notes](cs61b.md)
