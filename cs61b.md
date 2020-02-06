@@ -1,4 +1,4 @@
-Here are my lecture notes for CS61B, Data Structures
+Here are my lecture notes for CS61B, Data Structures. [Notice anything different](New Note Format.pdf)?
 
 [Lecture 1 - Welcome to 61B](61B Lec 1.pdf)
 
@@ -12,4 +12,4 @@ Here are my lecture notes for CS61B, Data Structures
 
 [Lecture 6 - Sorting](61B Lec 6.pdf)
 
-[Lecture 7 - Object-Oriented Programming)
+[Lecture 7 - Object-Oriented Programming]
