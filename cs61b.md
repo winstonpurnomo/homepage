@@ -12,4 +12,6 @@ Here are my lecture notes for CS61B, Data Structures. [Notice anything different
 
 [Lecture 6 - Sorting](61B Lec 6.pdf)
 
-[Lecture 7 - Object-Oriented Programming]
+[Lecture 7 - Object-Oriented Programming](61B Lec 7.pdf)
+
+[Lecture 8 - Object-Oriented Mechanisms](61B Lec 8.pdf)
