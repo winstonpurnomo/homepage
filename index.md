@@ -9,3 +9,5 @@ I'm a freshman at UC Berkeley, intending to declare Computer Science. I'm an Aca
 [Additional Topics in CS61A Notes](cs9852.md)
 
 [CS61B Notes](cs61b.md)
+
+[Math 1B Notes](math1b.md)
