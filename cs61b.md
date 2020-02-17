@@ -15,3 +15,9 @@ Here are my lecture notes for CS61B, Data Structures. [Notice anything different
 [Lecture 7 - Object-Oriented Programming](61B Lec 7.pdf)
 
 [Lecture 8 - Object-Oriented Mechanisms](61B Lec 8.pdf)
+
+[Lecture 9 - Abstract Classes and Interfaces](61B Lec 9.pdf)
+
+[Lecture 10 - Review](61B Lec 10.pdf)
+
+[Lecture 11 - Comparable](61B Lec 11.pdf)
