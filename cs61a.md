@@ -85,3 +85,5 @@ The content here does not pertain to the final, but is neat!
 [Lecture 37 - Natural Language](61A Lec 37.pdf)
 
 [Lecture 39 - Conclusion](61A Lec 39.pdf)
+
+[Problem Solving in CS61A](probsolve.pdf)
