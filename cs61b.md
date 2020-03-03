@@ -1,5 +1,7 @@
 Here are my lecture notes for CS61B, Data Structures. [Notice anything different](New Note Format.pdf)?
 
+## Content Leading Up to Midterm 1
+
 [Lecture 1 - Welcome to 61B](61B Lec 1.pdf)
 
 [Lecture 2 - Our first Java program](61B Lec 2.pdf)
@@ -21,3 +23,21 @@ Here are my lecture notes for CS61B, Data Structures. [Notice anything different
 [Lecture 10 - Review](61B Lec 10.pdf)
 
 [Lecture 11 - Comparable](61B Lec 11.pdf)
+
+[Lecture 12 - Default Constructors and Exceptions](61B Lec 12.pdf)
+
+[Lecture 13 - Packages and Access Modifiers](61B Lec 13.pdf)
+
+[Lecture 14 - Integer representation and Bit shifting](61B Lec 14.pdf)
+
+## Content Leading Up to Midterm 2
+
+[Lecture 16 - Algorithmic Complexity](61B Lec 16.pdf)
+
+Lecture 17 - Collections interface
+
+Lecture 18 - Sequences
+
+Lecture 19 - Sequences II
+
+Lecture 20 - Trees
