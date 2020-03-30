@@ -34,10 +34,32 @@ Here are my lecture notes for CS61B, Data Structures. [Notice anything different
 
 [Lecture 16 - Algorithmic Complexity](61B Lec 16.pdf)
 
-Lecture 17 - Collections interface
+[Lecture 17 - Collections interface](61B Lec 17.pdf)
 
-Lecture 18 - Sequences
+[Lecture 18 - Sequences](61B Lec 18.pdf)
 
-Lecture 19 - Sequences II
+[Lecture 19 - Sequences II](61B Lec 19.pdf)
 
-Lecture 20 - Trees
+[Lecture 20 - Trees](61B Lec 20.pdf)
+
+[Lecture 21 - BST and Tree Searching](61B Lec 21.pdf)
+
+[Lecture 22 - Game Trees](61B Lec 22.pdf)
+
+[Lecture 23 - Priority Queues](61B Lec 23.pdf)
+
+[Lecture 24 - Hashing](61B Lec 24.pdf)
+
+[Lecture 25 - Generics](61B Lec 25.pdf)
+
+# CSJ61B: The Josh Hug version of CS61B
+
+This section will be periodically updated with choice lectures from Josh Hug's version of CS61B (as taught in Spring 2019)
+
+[Lecture 4 - Linked Lists, Nested Classes and Sentinel Nodes](J61B Lec 4.pdf)
+
+[Lecture 5 - Doubly Linked Lists, Arrays](J61B Lec 5.pdf)
+
+[Lecture 13 - Asymptotics and Algorithm Analysis](J61B Lec 13.pdf)
+
+[Lecture 15 - Asymptotics Examples](J61B Lec 15.pdf)
