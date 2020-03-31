@@ -63,3 +63,7 @@ This section will be periodically updated with choice lectures from Josh Hug's v
 [Lecture 13 - Asymptotics and Algorithm Analysis](J61B Lec 13.pdf)
 
 [Lecture 15 - Asymptotics Examples](J61B Lec 15.pdf)
+
+[Lecture 18 - Red-Black Trees](J61B Lec 18.pdf)
+
+[Lecture 19 - Hashing](J61B Lec 19.pdf)
