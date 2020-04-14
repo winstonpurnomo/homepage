@@ -52,6 +52,18 @@ Here are my lecture notes for CS61B, Data Structures. [Notice anything different
 
 [Lecture 25 - Generics](61B Lec 25.pdf)
 
+## The Home Stretch: Content Leading Up to Final
+
+[Lecture 26 - Sorting, Part 1](61B Lec 26.pdf)
+
+Lecture 27 was a review Q&A for Midterm 2. There are no notes for it.
+
+[Lecture 28 - Sorting, Part 2](61B Lec 28.pdf)
+
+[Lecture 29 - Sorting, Part 3](61B Lec 29.pdf)
+
+[Lecture 30 - Balanced Search Structures](61B Lec 30.pdf)
+
 # CSJ61B: The Josh Hug version of CS61B
 
 This section will be periodically updated with choice lectures from Josh Hug's version of CS61B (as taught in Spring 2019)
