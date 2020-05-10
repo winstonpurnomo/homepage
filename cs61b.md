@@ -62,7 +62,27 @@ Lecture 27 was a review Q&A for Midterm 2. There are no notes for it.
 
 [Lecture 29 - Sorting, Part 3](61B Lec 29.pdf)
 
-[Lecture 30 - Balanced Search Structures](61B Lec 30.pdf)
+[Lecture 30 - Balanced Search Structures, Part 1](61B Lec 30.pdf)
+
+[Lecture 31 - Balanced Search Structures, Part 2](61B Lec 31.pdf)
+
+[Lecture 32 - Git fundamentals](61B Lec 32.pdf)
+
+[Lecture 33 - Graphs](61B Lec 33.pdf)
+
+[Lecture 34 - Shortest Paths](61B Lec 34.pdf)
+
+[Lecture 35 - Random Sequences and Pseudorandomness](61B Lec 35.pdf)
+
+[Lecture 36 - Dynamic Programming](61B Lec 36.pdf)
+
+[Lecture 37 - Threads and Garbage Collection](61B Lec 37.pdf)
+
+Lecture 38 was a continuation of Lecture 37
+
+[Lecture 39 - Compression](61B Lec 39.pdf)
+
+[Lecture 40 - Conclusion](61B Lec 40.pdf)
 
 # CSJ61B: The Josh Hug version of CS61B
 
