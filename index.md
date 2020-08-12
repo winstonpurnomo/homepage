@@ -11,3 +11,5 @@ I'm a sophomore at UC Berkeley, intending to declare Computer Science. I'm an Ac
 [CS61B Notes](cs61b.md)
 
 [Math 1B Notes](math1b.md)
+
+[CS70 Notes](winstonpurnomo.github.io/cs70-guide)
