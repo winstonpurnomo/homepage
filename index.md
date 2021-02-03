@@ -15,7 +15,7 @@ I'm a sophomore at UC Berkeley, majoring in Computer Science. I'm an Academic In
 
 [CS61C Notes](cs61c.md)
 
-[CS170 Notes](cs170.md)
+[CS170 Notes](https://www.notion.so/winstonp/CS-170-277bcd1a0c9e4cc4bb18fac61665eb2e)
 
 [Math 1B Notes](math1b.md)
 
