@@ -3,6 +3,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/wpurnomo)
 
+[Resume](Winston Purnomo Resume.pdf)
+
 ## About
 I'm a junior Computer Science major at UC Berkeley. I'm an Tutor for the UC Berkeley EECS department, leading small-group discussion section in the department's introductory computer science course, CS 61A. Aside from CS, my interests include math, debate and writing; I participated extensively in Model United Nations competitions in high school, and I was the Secretary of Operations and Technology of Jakarta Students' Congress, the largest student-run Model Congress conference in Indonesia.
 
